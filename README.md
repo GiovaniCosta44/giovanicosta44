@@ -1,5 +1,6 @@
-### Olá! Eu sou o Giovani Costa!
+### Stay Hungry Stay Foolish!
 
+ Bem vindo, Sou o Giovani Costa!
 
 
 - 🔭 Atualmente trabalho como técnico de redes
