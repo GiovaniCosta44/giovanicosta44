@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho como técnico de rede
+- 🔭 Atualmente trabalho como técnico de redes
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 👯 Procurando colaborar como desenvolvedor
 - 📫 Contate-me no email: giovanicosta44@gmail.com
