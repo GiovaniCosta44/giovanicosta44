@@ -3,10 +3,7 @@
  Bem vindo, Sou o Giovani Costa!
 
 
-- 🔭 Atualmente trabalho como técnico de redes
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 👯 Procurando colaborar como desenvolvedor
-- 📫 Contate-me no email: giovanicosta44@gmail.com
+- 🔭 JAVA SOFTWARE DEVELOPER
 
 <div align="center">
   <a href="https://github.com/GiovaniCosta44">
